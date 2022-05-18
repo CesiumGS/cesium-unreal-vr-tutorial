@@ -16,7 +16,7 @@ You will need to download the [Cesium for Unreal plugin from the Unreal Engine M
 
 Have questions? Ask them on the [community forum](https://community.cesium.com).
 
-## :mountain: Level Descriptions
+## :mountain: Tutorial Descriptions
 
 ### :one: Tutorial 1 - Teleportation, Line Traces, and Height Correction
 
