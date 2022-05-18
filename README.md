@@ -5,7 +5,7 @@ In this tutorial series, we will cover solutions for several common challenges  
 
 This tutorial will describe the UX challenge, our design thinking, and the Blueprint code for each feature. You can follow along from a blank project, or download the project files here to try them out yourself. Within each folder you will find a corresponding level which highlights a different feature. To see all features working together, open the main level located within the root content folder.
 
-[![Cesium VR Headset](Images/Cesium-VR-Headset.jpg)]()
+![Cesium VR Headset](Images/Cesium-VR-Headset.jpg)
 
 ### :rocket: Get Started
 
