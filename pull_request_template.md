@@ -15,6 +15,7 @@ special attention?
 
 - Tutorial for _replace_with_issue_numbers_ <!-- After submitting, verify that the issue was linked to this PR. -->
 - Has the new tutorial been integrated into the main level? Yes/No
+- Has a new section of the readme been added for this tutorial? Yes/No
 - Have you done a full self-review of the code and blueprints? Yes/No
 - Have you tagged a primary reviewer? Yes/No
 - Are there any remaining tasks to do or blocking questions to answer before we can merge this? Yes/No
