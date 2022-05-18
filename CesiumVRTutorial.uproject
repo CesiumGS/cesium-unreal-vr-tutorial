@@ -32,6 +32,24 @@
 				"Android",
 				"IOS"
 			]
+		},
+		{
+			"Name": "OculusVR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Android"
+			]
+		},
+		{
+			"Name": "BlueprintAssist",
+			"Enabled": true,
+			"Optional": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/9e895371fa3a471c87337860d6f341ff"
+		},
+		{
+			"Name": "XRVisualization",
+			"Enabled": true
 		}
 	]
 }
