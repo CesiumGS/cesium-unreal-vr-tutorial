@@ -23,7 +23,7 @@ If you are using a VR headset not mentioned above, please add the corresponding 
 
 ## 🗺️: Tutorial Descriptions
 
-The features in this Unreal Engine Project are separated into individual levels with each level corresponding with a single tutorial. Each level builds upon the previous levels. If you would like to see a singular feature in action, open the level within the tutorial's corresponding folder to try it out. Open the level within the "Main" folder if you would like to see all of the features combined into one experience. 
+The features in this Unreal Engine Project are separated into individual levels with each level corresponding to a single tutorial. Each level builds upon the previous levels. If you would like to see a singular feature in action, open the level within the tutorial's corresponding folder to try it out. Open the level within the "Main" folder if you would like to see all of the features combined into one experience. 
 
 ### :one: Tutorial 1 - Teleportation, Line Traces, and Height Correction
 
