@@ -27,7 +27,7 @@ The features in this Unreal Engine Project are separated into individual levels 
 
 ### :one: Tutorial 1 - Teleportation, Line Traces, and Height Correction
 
-In the first tutorial we cover teleporting the user long distances across the world and fetching higher levels of detail on 3D Tiles from a distance. This tutorial also covers common issues in VR like moving below the surface and provides strategies to render line traces from the players hands. 
+In the first tutorial we cover teleporting the player long distances across the world and fetching higher levels of detail on 3D Tiles from a distance. This tutorial also covers common issues in VR like moving below the surface and provides strategies to render line traces from the players hands. 
 
 The teleportation level is located at [Content/Teleportation/Teleportation.umap](blob/main/Content/Teleportation/Teleportation.umap)
 
