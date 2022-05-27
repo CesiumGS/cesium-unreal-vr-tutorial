@@ -46,4 +46,4 @@ Have any suggestions or questions? Ask them on the [community forum](https://com
 
 ## :green_book:License
 
-[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.html). Cesium for Unreal VR Tutorial is free to use as starter project for both commercial and non-commercial use.
+[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.html). Cesium for Unreal VR Tutorials are free to use as starter project for both commercial and non-commercial use.
