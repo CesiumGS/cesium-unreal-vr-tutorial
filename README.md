@@ -2,7 +2,7 @@
 
 # Cesium VR Tutorial Series
 
-The [Cesium for Unreal VR Tutorial Series](https://cesium.com/learn/unreal/vr-introduction/) covers strategies and solutions for several common challenges that come with building global-scale applications in VR using [Cesium for Unreal](https://www.unrealengine.com/marketplace/en-US/product/87b0d05800a545d49bf858ef3458c4f7). 
+The [Cesium for Unreal VR Tutorial Series](https://www.unrealengine.com/marketplace/en-US/product/fc21a5013d8d4821b8c7dc88e94ca0ed) covers strategies and solutions for several common challenges that come with building global-scale applications in VR using [Cesium for Unreal](https://www.unrealengine.com/marketplace/en-US/product/87b0d05800a545d49bf858ef3458c4f7). 
 
 This repository holds example levels and code for all the features described in the tutorial series. This series serves as a guide for recommend practices for VR application design and user ergonomics you can use in your projects. Each tutorial will describe the UX challenge, our design thinking, and the Blueprint code for each feature. New tutorials will be added in frequently so check back soon!
 
