@@ -38,6 +38,12 @@ In the second tutorial we explore motion across the world while minimizing nause
 
 The movement level is located at [Content/Movement/Movement.umap](Content/Movement/Movement.umap)
 
+### :two: Tutorial 3 - Vignette
+
+In the third tutorial we explore applying a vignette over the user's view in order to reduce motion sickness. This vignette is callable from external components to activate from specific actions such as teleportation and snap rotation. The vignette component also automatically calculates an optimal vignette based on the user's movement velocity, ensuring that if the user's pawn is moving at all a vignette will be activated.
+
+The vignette level is located at [Content/Vignette/Vignette.umap](Content/Vignette/Vignette.umap)
+
 ## :mailbox_with_mail: Tell Us What You Think
 
 Have you noticed a bug or fatal error? Open an issue [here](https://github.com/CesiumGS/cesium-unreal-vr-tutorial/issues).
