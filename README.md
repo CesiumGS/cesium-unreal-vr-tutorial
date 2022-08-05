@@ -38,11 +38,18 @@ In the second tutorial we explore motion across the world while minimizing nause
 
 The movement level is located at [Content/Movement/Movement.umap](Content/Movement/Movement.umap)
 
-### :two: Tutorial 3 - Vignette
+### :three: Tutorial 3 - Vignette
 
 In the third tutorial we explore applying a vignette over the user's view in order to reduce motion sickness. This vignette is callable from external components to activate from specific actions such as teleportation and snap rotation. The vignette component also automatically calculates an optimal vignette based on the user's movement velocity, ensuring that if the user's pawn is moving at all a vignette will be activated.
 
 The vignette level is located at [Content/Vignette/Vignette.umap](Content/Vignette/Vignette.umap)
+
+
+### :hammer: Build Tutorial - Meta Quest
+
+In the Meta Quest build tutorial we cover some topics on optimization as well as Android packaging and sdk setup.
+
+The Build For Quest level is located at [Content/BuildForQuest/BuildForQuest.umap](Content/BuildForQuest/BuildForQuest.umap)
 
 ## :mailbox_with_mail: Tell Us What You Think
 
