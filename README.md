@@ -30,26 +30,26 @@ The features in this Unreal Engine Project are separated into individual levels 
 
 In the first tutorial we cover teleporting the player long distances across the world and fetching higher levels of detail on 3D Tiles from a distance. This tutorial also covers common issues in VR like moving below the surface and provides strategies to render line traces from the players hands. 
 
-The teleportation level is located at [Content/Teleportation/Teleportation.umap](Content/Teleportation/Teleportation.umap)
+The teleportation level is located at [Content/CesiumVRTutorial/Teleportation/Teleportation.umap](Content/Teleportation/Teleportation.umap)
 
 ### :two: Tutorial 2 - Movement
 
 In the second tutorial we explore motion across the world while minimizing nausea and how to keep the ground below the player loaded at all times. We also cover ways to change your movement speed based on the pawn's altitude, which aids in traversing great distances quickly and easily.
 
-The movement level is located at [Content/Movement/Movement.umap](Content/Movement/Movement.umap)
+The movement level is located at [Content/CesiumVRTutorial/Movement/Movement.umap](Content/Movement/Movement.umap)
 
 ### :three: Tutorial 3 - Vignette
 
 In the third tutorial we explore applying a vignette over the user's view in order to reduce motion sickness. This vignette is callable from external components to activate from specific actions such as teleportation and snap rotation. The vignette component also automatically calculates an optimal vignette based on the user's movement velocity, ensuring that if the user's pawn is moving at all a vignette will be activated.
 
-The vignette level is located at [Content/Vignette/Vignette.umap](Content/Vignette/Vignette.umap)
+The vignette level is located at [Content/CesiumVRTutorial/Vignette/Vignette.umap](Content/Vignette/Vignette.umap)
 
 
 ### :hammer: Build Tutorial - Meta Quest
 
 In the Meta Quest build tutorial we cover some topics on optimization as well as Android packaging and sdk setup.
 
-The Build For Quest level is located at [Content/BuildForQuest/BuildForQuest.umap](Content/BuildForQuest/BuildForQuest.umap)
+The Build For Quest level is located at [Content/CesiumVRTutorial/BuildForQuest/BuildForQuest.umap](Content/BuildForQuest/BuildForQuest.umap)
 
 ## :mailbox_with_mail: Tell Us What You Think
 
