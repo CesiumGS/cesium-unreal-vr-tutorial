@@ -34,14 +34,6 @@
 			]
 		},
 		{
-			"Name": "OculusVR",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Android"
-			]
-		},
-		{
 			"Name": "BlueprintAssist",
 			"Enabled": true,
 			"Optional": true,
