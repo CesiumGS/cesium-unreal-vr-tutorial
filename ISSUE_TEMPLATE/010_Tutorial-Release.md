@@ -16,7 +16,7 @@ Target release date: x/x/xxxx <!-- 2. Set the target release date. --> <br>
 
 - [ ] Complete technical implementation [#xx]()  <!-- 3. Link to the PR in the project repository. -->
 - [ ] Create a new version and upload to Unreal Engine Marketplace
-- [ ] Add issue to [communications repository](https://github.com/CesiumGS/communications/issues) for visibility 
+- [ ] Add issue to [communications repository](https://github.com/CesiumGS/communications/issues) for visibility and announcement coordination.
 - [ ] Complete text review, [Google Doc]()  <!-- 4. Link to google doc. -->
 - [ ] Publish page, [Prismic Page]()  <!-- 5. Link to prismic page on staging. -->
 
