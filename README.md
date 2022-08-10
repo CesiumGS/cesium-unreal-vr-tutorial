@@ -10,7 +10,7 @@ This repository holds example levels and code for all the features described in 
 <img src="Images/Cesium-VR-Headset.jpg" alt="Cesium VR Headset"/>
 </p>
 
-### :rocket: Get Started
+### :rocket: Get started with the tutorial
 
 You will need to download the [Cesium for Unreal plugin from the Unreal Engine Marketplace](https://cesium.com/unreal-marketplace?utm_source=cesium-unreal&utm_medium=github&utm_campaign=unreal).
 
@@ -44,12 +44,15 @@ In the third tutorial we explore applying a vignette over the user's view in ord
 
 The vignette level is located at [Content/CesiumVRTutorial/Vignette/Vignette.umap](Content/CesiumVRTutorial/Vignette/Vignette.umap)
 
-
-### :hammer: Build Tutorial - Meta Quest
+### :four: Tutorial 4 - Build for Quest
 
 In the Meta Quest build tutorial we cover some topics on optimization as well as Android packaging and sdk setup.
 
 The Build For Quest level is located at [Content/CesiumVRTutorial/BuildForQuest/BuildForQuest.umap](Content/CesiumVRTutorial/BuildForQuest/BuildForQuest.umap)
+
+## :building_construction: Contribute to the repository
+
+Please consult the [ContributionGuide.md](ContributionGuide.md)
 
 ## :mailbox_with_mail: Tell Us What You Think
 
