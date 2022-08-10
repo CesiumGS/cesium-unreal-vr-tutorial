@@ -24,6 +24,7 @@ Target release date: x/x/xxxx <!-- 2. Set the target release date. --> <br>
 
 [🏗️ Contribution Guide](ContributionGuide.md) <br>
 [📗 Release Guide](ReleaseGuide.md) <br>
+[💎 Prismic Guide](https://github.com/CesiumGS/people/PrismicGuide/LearningContentGuide.md) <br>
 
 [VR Tutorial on UE marketplace](https://www.unrealengine.com/marketplace/en-US/product/cesium-for-unreal-vr-tutorials/reviews)<br>
 [VR series introduction on Cesium site](https://cesium.com/learn/unreal/vr-introduction/) <br>
