@@ -1,9 +1,13 @@
+---
+name: Tutorial Release
+about: The tutorial release issue will aid in keeping track of all of the needed processes to publishing and releasing a tutorial.
+title: ''
+labels: ''
+assignees: ''
+
+---
 <!-- 
-
-The tutorial release issue will aid in keeping track of all of the needed processes to publishing and releasing a tutorial.
-
 REMINDER: Open an issue on the communications repo along with this tracking issue.
-
 https://github.com/CesiumGS/communications/issues
 -->
 
