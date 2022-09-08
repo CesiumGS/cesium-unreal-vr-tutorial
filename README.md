@@ -10,7 +10,7 @@ This repository holds example levels and code for all the features described in 
 <img src="Images/Cesium-VR-Headset.jpg" alt="Cesium VR Headset"/>
 </p>
 
-### :rocket: Get Started
+### :rocket: Get started with the tutorial
 
 You will need to download the [Cesium for Unreal plugin from the Unreal Engine Marketplace](https://cesium.com/unreal-marketplace?utm_source=cesium-unreal&utm_medium=github&utm_campaign=unreal).
 
@@ -44,8 +44,7 @@ In the third tutorial we explore applying a vignette over the user's view in ord
 
 The vignette level is located at [Content/CesiumVRTutorial/Vignette/Vignette.umap](Content/CesiumVRTutorial/Vignette/Vignette.umap)
 
-
-### :four: Tutorial 4 - Build Tutorial - Meta Quest
+### :four: Tutorial 4 - Build for Quest
 
 In the Meta Quest build tutorial we cover some topics on optimization as well as Android packaging and sdk setup.
 
@@ -56,6 +55,10 @@ The Build For Quest level is located at [Content/CesiumVRTutorial/BuildForQuest/
 In the dragging the globe tutorial, the player can scale up to a size larger than the Earth to grab it and rotate it at any angle. While in the "Earth View" mode facilitated by an Earth Viewer component, the player can freely look towards the earth and rotate it with the thumbsticks as they please. This functionality is integrated into the main level by entering Earth View mode automatically when the player flyes above a certain altitude. The player can then leave "Earth View" and return to "Normal View" by teleporting onto the Earth's surface.
 
 The dragging the globe level is located at [Content/CesiumVRTutorial/DraggingTheGlobe/DraggingTheGlobe.umap](Content/CesiumVRTutorial/DraggingTheGlobe/DraggingTheGlobe.umap)
+
+## :building_construction: Contribute to the repository
+
+Please consult the [ContributionGuide.md](ContributionGuide.md)
 
 ## :mailbox_with_mail: Tell Us What You Think
 
