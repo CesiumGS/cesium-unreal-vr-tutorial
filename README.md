@@ -50,6 +50,12 @@ In the Meta Quest build tutorial we cover some topics on optimization as well as
 
 The Build For Quest level is located at [Content/CesiumVRTutorial/BuildForQuest/BuildForQuest.umap](Content/CesiumVRTutorial/BuildForQuest/BuildForQuest.umap)
 
+### :five: Tutorial 5 - Dragging the Globe
+
+In the dragging the globe tutorial, the player can scale up to a size larger than the Earth to grab it and rotate it at any angle. While in the "Earth View" mode facilitated by an Earth Viewer component, the player can freely look towards the earth and rotate it with the thumbsticks as they please. This functionality is integrated into the main level by entering Earth View mode automatically when the player flyes above a certain altitude. The player can then leave "Earth View" and return to "Normal View" by teleporting onto the Earth's surface.
+
+The dragging the globe level is located at [Content/CesiumVRTutorial/DraggingTheGlobe/DraggingTheGlobe.umap](Content/CesiumVRTutorial/DraggingTheGlobe/DraggingTheGlobe.umap)
+
 ## :building_construction: Contribute to the repository
 
 Please consult the [ContributionGuide.md](ContributionGuide.md)
