@@ -56,6 +56,12 @@ In the dragging the globe tutorial, the player can scale up to a size larger tha
 
 The dragging the globe level is located at [Content/CesiumVRTutorial/DraggingTheGlobe/DraggingTheGlobe.umap](Content/CesiumVRTutorial/DraggingTheGlobe/DraggingTheGlobe.umap)
 
+### :six: Tutorial 6 - Metadata and Dynamic UI
+
+The player can query tilesets for metadata and have the results show up in a UI that scales according to player distance and rotates to face the player, ensuring legibility from any distance.
+
+The metadata and dynamic UI level is located at [Content/CesiumVRTutorial/DynamicUI/DynamicUI.umap](Content/CesiumVRTutorial/DynamicUI/DynamicUI.umap)
+
 ## :building_construction: Contribute to the repository
 
 Please consult the [ContributionGuide.md](ContributionGuide.md)
