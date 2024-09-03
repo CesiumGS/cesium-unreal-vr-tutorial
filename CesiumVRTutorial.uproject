@@ -22,6 +22,12 @@
 			]
 		},
 		{
+			"Name": "BlueprintAssist",
+			"Enabled": true,
+			"Optional": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/9e895371fa3a471c87337860d6f341ff"
+		},
+		{
 			"Name": "CesiumForUnreal",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/87b0d05800a545d49bf858ef3458c4f7",
@@ -32,12 +38,6 @@
 				"Android",
 				"IOS"
 			]
-		},
-		{
-			"Name": "BlueprintAssist",
-			"Enabled": true,
-			"Optional": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/9e895371fa3a471c87337860d6f341ff"
 		}
 	]
 }
